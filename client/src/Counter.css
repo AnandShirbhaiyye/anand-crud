@@ -1,0 +1,9 @@
+.counter-section{
+    border: 2px double black;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+.counter{
+    text-align: center;
+}
